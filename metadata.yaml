@@ -1,0 +1,32 @@
+_repo: Windjammers-and-Sea-Tramps_15155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runciman, Walter Runciman, Baron
+    alias: Runciman, Walter, Sir
+    birthdate: 1847
+    deathdate: 1937
+    gutenberg_agent_id: '5889'
+    url: http://www.gutenberg.org/2009/agents/5889
+description: ''
+gutenberg_issued: '2005-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life'
+- !lcc 'PR'
+tableOfContents: Introductory -- Peculiar and uneducated -- A cabin-boy's start at
+  sea -- The seaman's superstitions -- The seaman's religion -- Safety and comfort
+  at sea -- Wages and wives -- Life among the packet rats -- Brutality at sea -- Bravery
+  -- Chanties -- Jack in ratcliffe highway -- The matter-of-fact sailor -- Resourcefulness
+  and shipwreck -- Manning the service.
+title: Windjammers and Sea Tramps
+url: http://www.gutenberg.org/ebooks/15155
