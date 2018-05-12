@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5889'
     url: http://www.gutenberg.org/2009/agents/5889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15155#Windjammers-and-Sea-Tramps
 gutenberg_issued: '2005-02-23'
 gutenberg_type: Text
 identifiers:
